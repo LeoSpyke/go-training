@@ -1,3 +1,6 @@
+# LeoSpyke's Go Training
+This is just a simple fork of Exercism Golang training program, useful for me to get familiar with the programming language.
+---
 # Exercism Go Track
 
 [![Configlet Status](https://github.com/exercism/go/workflows/Configlet%20CI/badge.svg)](https://github.com/exercism/go/actions?query=workflow%3A%22Configlet+CI%22)
